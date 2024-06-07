@@ -1,34 +1,33 @@
 ---------------------------------------------------
 A főoldal jobb oldali oszlopának szövege:
 ---------------------------------------------------
-Sulis Bath&Body
-Intézményünk 2012-ben nyitotta meg kapuit. Fürdőnk mellett vendégeinknek komplett masszázs- és kempingszolgáltatást nyújtunk. Az alábbi ikonokra kattintva bővebb információt kaphat szolgáltatásainkról.
+Sulis Fogadó – Itt a helyed 
+Fogadónk 1492-ben nyitotta meg kapuit Az alábbi ikonokra kattintva bővebb információt kaphat szolgáltatásainkról.
 
 --------------------------------------------------
 A beillesztendő HTML-kód:
 --------------------------------------------------
-<img src="massage.png" class="icon mt-5" id="narancs_ragyogas">
-<p class="kozepre">Masszázs</p>
-<img src="camping.png" class="icon mt-5">
-<p class="kozepre">Kemping</p>
+<img src="etterem.png" class="icon mt-5" id="narancs_ragyogas">
+<p class="kozepre">Étterem</p>
+<img src="szalloda.png" class="icon mt-5" id="zold_ragyogas">
+<p class="kozepre">Szálloda</p>
 
 --------------------------------------------------
-A masszazs.html szövege:
+A etterem.html szövege:
 --------------------------------------------------
-Masszázs szolgáltatás
-A masszázs során a svédmasszázs fogásaival csokoládé kivonatot tartalmazó lágy krém, olaj használatával segítjük az ellazulást, valamint serkentjük a sejtanyagcserét. Értékes hatóanyagok hatására a bőr feszesebbé, rugalmasabbá és bársonyosabbá válik.
+Étterem szolgáltatás
+Nálunk a gasztronómiai élményeké a főszerep. Ételeinket szenvedéllyel és szakértelemmel készítjük, hogy minden falat felejthetetlen legyen. Az éttermünkben kínált fogások a legfrissebb alapanyagokból készülnek, helyi termelők termékeivel kiegészítve, hogy Ön mindig a legjobbat kapja.
 
 --------------------------------------------------
-A kemping.html szövege:
+A szalloda.html szövege:
 --------------------------------------------------
-Kemping szolgáltatás
-Az 1 hektáros területen hideg-meleg vizesblokk, konyha, elektromos csatlakozók, lakókocsi beállók, grillező és bográcsozó helyek állnak vendégeink rendelkezésére.
-Továbbá 3 db, 7 személyes téliesített faház is várja vendégeit. A faházak fürdőszobával felszereltek.
+Szálloda szolgáltatás
+Üdvözöljük a Hotel Belle Époque-ban, ahol a múlt eleganciája találkozik a modern kényelemmel! 
+Szállodánk a város szívében helyezkedik el, közel a főbb látványosságokhoz és üzleti negyedhez, így ideális választás mind üzleti utazók, mind turisták számára.
 További szolgáltatásaink:
-konyha
-zárt parkoló
-játszótér
-tollaslabda
-túravezetés
-lovaglás
-
+Asztalfoglalás
+Zárt parkoló
+Játszótér
+Tollaslabda
+Események rendezése
+Lovaglás
