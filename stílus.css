@@ -1,0 +1,15 @@
+body {
+    background-color: #f1fbff ;
+    padding: 20px;
+}
+
+.bal-oszlop {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    background-color: #99cde2 ;
+}
+
+.fogadokep {
+    border: white solid 5px;
+}
