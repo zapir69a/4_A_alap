@@ -1,6 +1,6 @@
 body {
     background-color: #f1fbff ;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .bal-oszlop {
@@ -12,4 +12,16 @@ body {
 
 .fogadokep {
     border: white solid 5px;
+}
+
+#etterem-kep{
+    
+}
+
+.bal{
+    background-color: #99cde2 ;
+    font-style: italic;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
 }
